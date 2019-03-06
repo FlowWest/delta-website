@@ -1,3 +1,3 @@
-# CVPIA SIT Website
+# Delta SIT Website
 
-draft website to organize meeting announcements and tools created in support of CVPIA SDM
+draft website to organize meeting announcements and tools created in support of Delta SDM
