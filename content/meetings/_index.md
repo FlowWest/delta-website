@@ -1,5 +1,5 @@
 +++
-title = "CVPIA SDM Meetings"
+title = "Delta SDM Meetings"
 
 draft = false  # Is this a draft? true/false
 toc = true  # Show table of contents? true/false

@@ -1,5 +1,5 @@
 +++
-title = "CVPIA SDM In-person"
+title = "Delta SDM In-person"
 date = 2017-01-01T00:00:00  # Schedule page publish date.
 draft = false
 
