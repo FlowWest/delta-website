@@ -28,22 +28,4 @@ date_format = "January 2006"
   date_end = ""
   description = """Calibration model for fall, spring, and winter chinook"""
 
-[[experience]]
-  title = "Model Run"
-  company = ""
-  company_url = ""
-  location = "estimated timeframe"
-  date_start = "2019-02-01"
-  date_end = "2019-04-30"
-  description = """Running newly calibrated model and reporting results to SIT"""
-
-[[experience]]
-  title = "Accepting Charters"
-  company = ""
-  company_url = ""
-  location = "estimated timeframe"
-  date_start = "2019-05-01"
-  date_end = "2019-06-30"
-  description = """Submital period for charters"""
-
 +++
